@@ -1,6 +1,7 @@
 {
   "name": "node-cron",
   "version": "1.0.0",
+  "author": "Phablo Raylan <phabloraylan@gmail.com>",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
