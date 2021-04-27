@@ -8,7 +8,7 @@ import AppError from '@shared/errors/AppError';
 
 import '@shared/index';
 import configApp from '@config/app';
-import registerJob from 'registerJob';
+import registerJob from '../../../registerJob';
 
 const app = express();
 
